@@ -15,3 +15,9 @@ a = -9 b = -3 -> max = -3
 # Блок-схема
 
 ![](diagram.png)
+
+[Код](Exs001/Program.cs)
+
+
+
+
