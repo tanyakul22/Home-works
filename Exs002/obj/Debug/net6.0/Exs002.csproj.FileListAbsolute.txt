@@ -1,0 +1,15 @@
+E:\Repo 1\Exsumples\Exs002\bin\Debug\net6.0\Exs002.exe
+E:\Repo 1\Exsumples\Exs002\bin\Debug\net6.0\Exs002.deps.json
+E:\Repo 1\Exsumples\Exs002\bin\Debug\net6.0\Exs002.runtimeconfig.json
+E:\Repo 1\Exsumples\Exs002\bin\Debug\net6.0\Exs002.dll
+E:\Repo 1\Exsumples\Exs002\bin\Debug\net6.0\Exs002.pdb
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.csproj.AssemblyReference.cache
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.AssemblyInfoInputs.cache
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.AssemblyInfo.cs
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.csproj.CoreCompileInputs.cache
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.dll
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\refint\Exs002.dll
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.pdb
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\Exs002.genruntimeconfig.cache
+E:\Repo 1\Exsumples\Exs002\obj\Debug\net6.0\ref\Exs002.dll
